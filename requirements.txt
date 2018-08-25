@@ -9,4 +9,7 @@ beautifulsoup4
 requests
 lxml
 pylint
-scikit-learn
+neo4j-driver
+py2neo
+fake_useragent
+docopt
